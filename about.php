@@ -6,8 +6,8 @@ $city = 'Hangzhou';
 $birthYear = 1990;
 $currentYear = 2017;
 $age = $currentYear - $birthYear
-$email = 'email'
-$about = 'Currently doing purchasing in China for an industrial automation company.'
+$email = 'email';
+$about = 'Currently doing purchasing in China for an industrial automation company.';
 ?>
 
 <!DOCTYPE html>
