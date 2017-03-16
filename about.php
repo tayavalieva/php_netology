@@ -20,8 +20,8 @@ $about = 'Currently doing purchasing in China for an industrial automation compa
 <p>Name: <?= $firstName; ?></p>
 <p>Surname: <?= $lastName; ?></p>
 <p>Place of living: <?= $country; echo ', '.$city; ?></p>
-<p>Age: <? echo $age; ?></p>
-<p>E-mail: <? $email; ?></p>
-<p> <? echo $about; ?></p>
+<p>Age: <?= $age; ?></p>
+<p>E-mail: <?= $email; ?></p>
+<p> <?= $about; ?></p>
 </body>
 </html>
